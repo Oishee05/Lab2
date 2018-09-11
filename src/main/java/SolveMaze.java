@@ -17,7 +17,7 @@ public class SolveMaze {
      */
 
     public static void main(final String[] unused) {
-        /*
+        /* 
          * Create a new 10 x 10 maze. Feel free to change these values.
          */
         Maze maze = new Maze(10, 10);
